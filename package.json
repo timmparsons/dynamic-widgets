@@ -1,0 +1,120 @@
+{
+  "timestamp": "2017-11-16 12:42:43",
+  "id": "733",
+  "widgets": [
+    {
+      "id": "985",
+      "layout": {
+        "w": 3,
+        "moved": false,
+        "static": false,
+        "minH": 1,
+        "maxH": 2,
+        "maxW": 12,
+        "minW": 1,
+        "h": 2,
+        "y": 0,
+        "x": 0,
+        "i": "985"
+      },
+      "config": {
+        "title": "",
+        "dataConfig": {
+          "sampleSegmentParameters": {},
+          "sampleSegmentId": "2530",
+          "surveyId": 1027,
+          "infobox": {
+            "icon": "fa-angle-left",
+            "linkText": "",
+            "color": "panel-primary",
+            "link": "-999",
+            "linkType": "internal",
+            "label": "New Bidders Yesterday",
+            "format": "whole",
+            "subformat": null
+          }
+        },
+        "subType": "null",
+        "type": "infobox",
+        "actions": []
+      }
+    },
+    {
+      "id": "866",
+      "layout": {
+        "w": 3,
+        "moved": false,
+        "static": false,
+        "minH": 1,
+        "maxH": 2,
+        "maxW": 12,
+        "minW": 1,
+        "h": 2,
+        "y": 0,
+        "x": 3,
+        "i": "866"
+      },
+      "config": {
+        "title": "",
+        "dataConfig": {
+          "sampleSegmentParameters": {
+            "TYPE": "Bidder"
+          },
+          "sampleSegmentId": 1852,
+          "surveyId": 1027,
+          "infobox": {
+            "icon": "fa-android",
+            "linkText": "",
+            "color": "panel-red",
+            "link": "-999",
+            "linkType": "internal",
+            "label": "New Bidders Today",
+            "format": "whole",
+            "subformat": null
+          }
+        },
+        "subType": "null",
+        "type": "infobox",
+        "actions": []
+      }
+    },
+    {
+      "id": "887",
+      "layout": {
+        "w": 3,
+        "moved": false,
+        "static": false,
+        "minH": 1,
+        "maxH": 2,
+        "maxW": 12,
+        "minW": 1,
+        "h": 2,
+        "y": 4,
+        "x": 0,
+        "i": "887"
+      },
+      "config": {
+        "title": "",
+        "dataConfig": {
+          "sampleSegmentParameters": {},
+          "sampleSegmentId": 1738,
+          "surveyId": 1035,
+          "infobox": {
+            "icon": "fa-adn",
+            "linkText": "",
+            "color": "panel-yellow",
+            "link": "-999",
+            "linkType": "internal",
+            "label": "Active Auctions",
+            "format": "whole",
+            "subformat": null
+          }
+        },
+        "subType": "null",
+        "type": "infobox",
+        "actions": []
+      }
+    }
+  ]
+}
+  
